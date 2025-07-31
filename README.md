@@ -1,2 +1,2 @@
-# laitalianapizzeria1.1
+# laitalianapizzeria
 proyecto pizzeria
