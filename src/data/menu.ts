@@ -133,7 +133,7 @@ export const snacks = [
   {
     id: 'boneless',
     name: 'Boneless',
-    price: 100,
+    price: 80,
     description: 'Alitas deshuesadas crujientes con aderezo ranch',
     unit: 'orden',
     image: '/Captura copy copy.PNG',
